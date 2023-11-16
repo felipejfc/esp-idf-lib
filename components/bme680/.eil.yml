@@ -17,6 +17,7 @@ targets:
   - esp8266
   - esp32s2
   - esp32c3
+  - esp32h2
 license: BSD-3
 copyrights:
   - name: gschorcht
